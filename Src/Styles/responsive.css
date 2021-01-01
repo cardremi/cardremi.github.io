@@ -1,6 +1,6 @@
 /* For Tablets */
 @media all and (max-width: 1000px) {
-  .lesson {
+  .intro {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -16,7 +16,7 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-  .lesson {
+  .intro {
     width: 100%;
   }
   
